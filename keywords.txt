@@ -1,0 +1,5 @@
+AES	KEYWORD1
+
+setKey	KEYWORD2
+encryptBlock	KEYWORD2
+decryptBlock	KEYWORD2
